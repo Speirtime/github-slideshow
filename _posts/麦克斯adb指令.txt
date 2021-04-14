@@ -1,0 +1,8 @@
+麦克斯
+adb shell sh /storage/emulated/0/Android/data/web1n.stopapp/files/starter.sh
+激活
+adb shell dpm set-device-owner web1n.stopapp/.receiver.AdminReceiver
+权限狗
+adb shell sh /storage/emulated/0/Android/data/com.web1n.permissiondog/files/starter.sh
+
+
